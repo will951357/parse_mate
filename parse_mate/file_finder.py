@@ -105,7 +105,7 @@ class FileFinder:
             list_of_files: Lista de arquivos (caminho completo)
             filter_date: Data base de filtragem do arquivo
             filter_type: Tipo de filtragem
-        
+            
         Returns:
             Lista de arquivos filtrados
         """
